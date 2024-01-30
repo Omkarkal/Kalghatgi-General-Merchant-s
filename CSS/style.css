@@ -75,7 +75,7 @@
   .menu-botton{
     display: none;
   }
- .carousel-slide{
+ .carousel-inner{
         padding: 3%;
   }
   @media(max-width:800px){
